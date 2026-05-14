@@ -1,0 +1,4 @@
+-- ============================================================================
+-- seed.sql — placeholder. Populated in step 2 by the seed script, which loads
+-- profile.md into profile_versions and marks it active.
+-- ============================================================================
