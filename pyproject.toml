@@ -1,0 +1,12 @@
+[project]
+name = "trr-taste-agent"
+version = "0.1.0"
+description = "Personal taste agent that scores TRR (and future resale sites) against a learned taste profile."
+requires-python = ">=3.12"
+dependencies = [
+    "supabase>=2.9.0",
+    "python-dotenv>=1.0.1",
+]
+
+[tool.uv]
+package = false
