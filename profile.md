@@ -22,6 +22,8 @@ Applied or built-in detail is what makes a piece interesting to her. Smocking, r
 ### 2. Interesting waist
 High-waist, defined, contrast-banded, drop waist, peplum, ruched, corseted, lace-up, belted. Any deliberate waistline treatment scores. Shapeless or no-waist silhouettes rarely work.
 
+**Category caveat:** applies most strongly to dresses, tops, knits, and trousers. Jackets, coats, and outerwear don't need explicit waist definition to score well — structured hardware, surface intervention, or strong silhouette carry them. Don't deduct from outerwear scores for "missing waist play."
+
 ### 3. Mixed registers
 Feminine fabric + tough hardware. Soft drape + structured belt. Prairie sleeve + grommet trim. The tension between two registers in one piece is the point.
 
@@ -122,7 +124,10 @@ None established. The learning loop should surface patterns as 'no' reactions ac
 | Bottoms | US 0-4 |
 | Dresses | XXS, XS, S, US 0-4 |
 | Denim | 25-26 |
-| Shoes | EU 39 / 39.5 / US 8.5 — also saves US 9 (sizes up for heels and mules) |
+| Outerwear / Jackets | XS, S, M (US 6 is fine — jackets are often sized for layering) |
+| Shoes | **Her exact size is EU 39.5.** US conversion varies by brand: typically US 8.5 or US 9 (Italian/European brands often run small, in which case EU 39.5 ≈ US 9). Also fits EU 39 (US 8.5) and EU 40 (US 9.5). Treat ANY size in EU 39–40 or US 8.5–9.5 as her standard size — never flag as "large," "upper range," or "larger than typical." |
+
+**Size sensitivity varies by category.** Tops, dresses, and bottoms must fit closely, so those ranges are firm. Jackets and outerwear allow more flexibility because they're sized for layering. Treat size mismatches as a `flag`, not a score deduction — the surfacing logic downstream decides whether to filter.
 
 ---
 
@@ -133,9 +138,9 @@ None established. The learning loop should surface patterns as 'no' reactions ac
 | Range | Posture | Surfacing |
 |---|---|---|
 | Under $50 | Buy-zone, easy yes | High frequency |
-| $50–100 | Buy-zone sweet spot | High frequency |
-| $100–200 | Save-zone, strong taste fit only | Lower frequency — still surface but bias the feed toward sub-$100 |
-| $200+ | Save-zone, exceptional only | Rare — only when score is 9+ |
+| $50–150 | Buy-zone sweet spot — designer pieces at sale prices live here | High frequency |
+| $150–300 | Save-zone, strong taste fit only | Lower frequency — still surface but bias the feed toward sub-$150 |
+| $300+ | Save-zone, exceptional only | Rare — only when score is 9+ |
 
 The feed should bias toward buy-zone so the things she might actually buy don't get buried under aspirational saves. Treat surface-this and might-actually-buy as the same action; the price tier determines how aggressive the surfacing is.
 

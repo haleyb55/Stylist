@@ -1,0 +1,16 @@
+{
+  "id": "trr_example_001",
+  "source": "trr",
+  "source_item_id": "example_001",
+  "url": "https://www.therealreal.com/products/example_001",
+  "brand": "Miu Miu",
+  "category": "Clothing",
+  "subcategory": "Dresses",
+  "title": "Miu Miu Vintage Silk Ruffle Mini Dress",
+  "description": "Vintage 2000s Miu Miu mini dress in black silk. Asymmetric one-shoulder drape with hand-applied paillette detailing along the bust. Ruched waist with grosgrain ribbon ties. Hidden side zip. Original made in Italy label.",
+  "price": 425.00,
+  "size": "IT 38 (US 2)",
+  "condition": "Excellent",
+  "color": "Black",
+  "material": "100% Silk"
+}

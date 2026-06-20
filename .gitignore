@@ -32,6 +32,9 @@ playwright-report/
 test-results/
 .playwright/
 
+# ---- Scratch (debug HTML dumps, scraper session state) ----
+.scratch/
+
 # ---- macOS / IDE ----
 .DS_Store
 .vscode/
